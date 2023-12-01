@@ -1,3 +1,1 @@
-1_1: https://assets-global.website-files.com/65677525d1575048a0bbc35d/6567758571d3102964f2383e_OFFICIAL%20OTB%20LOGO.png - timeout on image download (website error)
-1_1: https://assets-global.website-files.com/65677525d1575048a0bbc35d/65677525d1575048a0bbc3c8_ipad.svg - timeout on image download (website error)
-1_1: https://assets-global.website-files.com/65677525d1575048a0bbc35d/656783bbd1299654702f6965_ezgif.com-video-to-gif%20(1).gif - timeout on image download (website error)
+1_1: https://assets-global.website-files.com/65677525d1575048a0bbc35d/656951571c2bdf62d214667e_IMG_5362.JPG - timeout on image download (website error)
