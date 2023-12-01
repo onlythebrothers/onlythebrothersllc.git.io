@@ -1,2 +1,1 @@
-1: https://otb-f7309d.webflow.io/
-2: https://otb-f7309d.webflow.io/home
+1: https://otb-f7309d.webflow.io/home
